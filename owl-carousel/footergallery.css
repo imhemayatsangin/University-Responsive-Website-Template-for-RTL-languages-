@@ -1,0 +1,15 @@
+
+.lazyOwl {
+  border:0;
+  display:block;
+  height:auto;
+  max-width:100%;
+  width:auto;
+}
+.owl-item img, .full-img {
+  max-width: none;
+  width:100%;
+}  
+
+
+ 
