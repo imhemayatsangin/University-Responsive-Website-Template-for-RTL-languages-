@@ -1,8 +1,6 @@
-# University-Responsive-Website-Template-for-RTL-language Pashto
+# University-Responsive-Website-Template-for-RTL- Pashto language.
+
 This website was designed for Abdali University located in Khost Afghanistan.
-This is the first responsive website for RTL language Pashto with Entrance Exam Result using PHP.
-Having the Gallery section
-Kankor result (Entrance Exam result)
+This is the responsive website for RTL Pashto language using HTML, CSS, Javascript,Jquery and PHP. The design of this template is based on Bootstrap 4 framework with some custom styles added to make it having the Gallery section, Kankor (Entrance Exam) result. The design is responsive and can be viewed on different devices such as mobile, tablet or desktop.
+
 </br>
-
-
